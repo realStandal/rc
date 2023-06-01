@@ -1,0 +1,9 @@
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "App.tsx": "index.css, main.tsx, vite-env.d.ts",
+    "package.json": ".eslintrc.cjs, index.html, tsconfig.json, tsconfig.node.json, vite.config.ts, yarn.lock",
+    "README.md": ".gitignore, LICENSE"
+  }
+}
